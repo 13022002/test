@@ -32,6 +32,7 @@ import javax.swing.JTextArea;
  */
 public class Server extends JFrame implements ActionListener{
 
+
 	private JButton close;
 	public JTextArea user;
 	private ServerSocket server;
